@@ -19,4 +19,4 @@ dependencies = [
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
 
-packages ="/mount/src/projeto-machine/README.md"
+"/mount/src/projeto-machine/README.md"
