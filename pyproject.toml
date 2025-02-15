@@ -5,7 +5,6 @@ description = "/mount/src/projeto-machine/README.md"
 authors = [
     {name = "Wellington Costa",email = "wgservices2022@gmail.com"}
 ]
-package-mode = true
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
