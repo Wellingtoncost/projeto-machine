@@ -1,13 +1,13 @@
 [project]
 name = "projeto-machine"
 version = "0.1.0"
-description = "/mount/src/projeto-machine/README.md"
+description = ""
 authors = [
     {name = "Wellington Costa",email = "wgservices2022@gmail.com"}
 ]
 
 package-mode = "false"
-readme = "README.md"
+readme = "README.md (mount/src/projeto-machine/)"
 requires-python = ">=3.12"
 dependencies = [
     "scikit-learn (>=1.6.1,<2.0.0)",
